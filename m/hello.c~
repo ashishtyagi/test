@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+  int i = 65;
+  printf("Hello Sawan %c", i);        
+  system("dir");
+  return 0;
+}
